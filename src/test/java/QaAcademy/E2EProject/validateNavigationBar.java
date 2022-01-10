@@ -28,6 +28,10 @@ public class validateNavigationBar extends base{
 	System.out.println("Navigated Successfully");
 	System.out.println("Navigated Successfully2");
 	System.out.println("Navigated Successfully3");
+	System.out.println("Navigated Successfully4");
+	System.out.println("Navigated Successfully5");
+	System.out.println("Navigated Successfully6");
+	
 	}
 	
 	@Test
