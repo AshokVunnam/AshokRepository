@@ -1,0 +1,7 @@
+07:54:11.214 [main] INFO  resource.base - Implicit wait for 10 seconds
+07:54:11.220 [main] INFO  java.lang.Class - Broweser is opened successfully
+07:54:13.432 [main] INFO  resource.base - Implicit wait for 10 seconds
+07:54:15.758 [main] INFO  java.lang.Class - Navigated to Url Successfully
+07:54:18.151 [main] INFO  resource.base - Implicit wait for 10 seconds
+07:54:20.199 [main] INFO  java.lang.Class - Url is accessed successfully
+07:54:23.031 [main] INFO  java.lang.Class - Broswer window Maximised

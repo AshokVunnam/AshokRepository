@@ -1,0 +1,7 @@
+19:20:04.634 [TestNG-tests-2] INFO  java.lang.Class - Navigated to Url Successfully
+19:20:04.746 [TestNG-tests-2] INFO  java.lang.Class - Element is displayed successfully
+19:20:09.649 [TestNG-tests-1] INFO  java.lang.Class - Broswer window Maximised
+19:20:14.032 [TestNG-tests-1] INFO  java.lang.Class - Enterd LoginPage
+19:20:14.251 [TestNG-tests-1] INFO  java.lang.Class - restricted User
+19:20:18.387 [TestNG-tests-1] INFO  java.lang.Class - Broswer window Maximised
+19:20:19.183 [TestNG-tests-1] INFO  java.lang.Class - Enterd LoginPage

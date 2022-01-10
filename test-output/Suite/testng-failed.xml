@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="tests" name="Validating the title(failed)">
+    <classes>
+      <class name="QaAcademy.E2EProject.validateTitle">
+        <methods>
+          <include name="titleValidator"/>
+          <include name="initialize"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- QaAcademy.E2EProject.validateTitle -->
+    </classes>
+  </test> <!-- Validating the title(failed) -->
+</suite> <!-- Failed suite [Suite] -->

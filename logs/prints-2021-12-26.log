@@ -1,0 +1,8 @@
+12:19:44.515 [main] INFO  java.lang.Class - Enterd LoginPage
+12:19:44.710 [main] INFO  java.lang.Class - restricted User
+12:21:37.624 [main] INFO  resource.base - Implicit wait for 10 seconds
+12:21:37.636 [main] INFO  java.lang.Class - Broweser is opened successfully
+12:21:39.565 [main] INFO  java.lang.Class - Broswer window Maximised
+12:21:40.144 [main] INFO  java.lang.Class - Enterd LoginPage
+12:21:40.344 [main] INFO  java.lang.Class - restricted User
+12:21:42.117 [main] INFO  java.lang.Class - Broswer window Maximised

@@ -1,0 +1,7 @@
+08:32:29.121 [TestNG-tests-1] INFO  java.lang.Class - Enterd LoginPage
+08:32:29.163 [TestNG-tests-3] INFO  java.lang.Class - Title is validated successfully
+08:32:29.314 [TestNG-tests-2] INFO  java.lang.Class - Navigated to Url Successfully
+08:32:29.410 [TestNG-tests-2] INFO  java.lang.Class - Element is displayed successfully
+08:32:29.674 [TestNG-tests-1] INFO  java.lang.Class - restricted User
+08:32:33.056 [TestNG-tests-1] INFO  java.lang.Class - Broswer window Maximised
+08:32:33.442 [TestNG-tests-1] INFO  java.lang.Class - Enterd LoginPage

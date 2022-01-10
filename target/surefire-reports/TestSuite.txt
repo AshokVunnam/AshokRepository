@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 18.021 s <<< FAILURE! - in TestSuite
+headerValidator(QaAcademy.E2EProject.validateTitle)  Time elapsed: 0.038 s  <<< FAILURE!
+java.lang.NullPointerException
+	at QaAcademy.E2EProject.validateTitle.headerValidator(validateTitle.java:46)
+

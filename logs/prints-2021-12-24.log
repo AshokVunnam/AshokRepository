@@ -1,0 +1,7 @@
+08:25:37.225 [TestNG-tests-1] INFO  java.lang.Class - Broweser is opened successfully
+08:25:45.256 [TestNG-tests-3] INFO  java.lang.Class - Url is accessed successfully
+08:25:45.263 [TestNG-tests-1] INFO  java.lang.Class - Broswer window Maximised
+08:25:46.374 [TestNG-tests-2] INFO  java.lang.Class - Navigated to Url Successfully
+08:25:46.450 [TestNG-tests-2] INFO  java.lang.Class - Element is displayed successfully
+08:25:47.890 [TestNG-tests-1] INFO  java.lang.Class - Enterd LoginPage
+08:25:48.274 [TestNG-tests-1] INFO  java.lang.Class - restricted User

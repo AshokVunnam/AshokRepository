@@ -1,0 +1,7 @@
+08:32:30.296 [TestNG] INFO  java.lang.Class - Enterd LoginPage
+08:32:30.540 [TestNG] INFO  java.lang.Class - Nonrestricted User
+08:37:00.254 [TestNG] INFO  resource.base - Implicit wait for 10 seconds
+08:37:00.254 [TestNG] INFO  resource.base - Implicit wait for 10 seconds
+08:37:00.254 [TestNG] INFO  resource.base - Implicit wait for 10 seconds
+08:37:00.259 [TestNG] INFO  java.lang.Class - Broweser is opened successfully
+08:37:05.675 [TestNG] INFO  java.lang.Class - Url is accessed successfully

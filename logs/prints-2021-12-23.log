@@ -1,0 +1,8 @@
+19:51:24.701 [main] INFO  java.lang.Class - Enterd LoginPage
+19:51:24.982 [main] INFO  java.lang.Class - restricted User
+19:51:27.751 [main] INFO  java.lang.Class - Broswer window Maximised
+19:51:28.598 [main] INFO  java.lang.Class - Enterd LoginPage
+19:51:28.833 [main] INFO  java.lang.Class - Nonrestricted User
+19:51:31.988 [main] INFO  resource.base - Implicit wait for 10 seconds
+19:51:40.480 [main] INFO  java.lang.Class - Navigated to Url Successfully
+19:51:40.565 [main] INFO  java.lang.Class - Element is displayed successfully
