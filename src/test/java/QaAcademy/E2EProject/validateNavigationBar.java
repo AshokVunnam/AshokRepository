@@ -25,6 +25,9 @@ public class validateNavigationBar extends base{
 	//driver.get("https://qaclickacademy.com/");
 	driver.get(prop.getProperty("url"));
 	log.info("Navigated to Url Successfully");
+	System.out.println("Navigated Successfully");
+	System.out.println("Navigated Successfully2");
+	System.out.println("Navigated Successfully3");
 	}
 	
 	@Test
