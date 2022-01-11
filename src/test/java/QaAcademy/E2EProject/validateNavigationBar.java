@@ -63,6 +63,7 @@ public class validateNavigationBar extends base{
 		LandingPage lp=new LandingPage(driver);
 		Assert.assertTrue(lp.contact().isDisplayed());
 		log.info("Element is displayed successfully");
+	}
 	
 	@AfterTest
 	public void closeBrowser() {
