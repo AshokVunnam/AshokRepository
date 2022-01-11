@@ -58,6 +58,12 @@ public class validateNavigationBar extends base{
 		
 	}
 	
+	@Test
+	public void navigationBar4() throws IOException {
+		LandingPage lp=new LandingPage(driver);
+		Assert.assertTrue(lp.contact().isDisplayed());
+		log.info("Element is displayed successfully");
+	
 	@AfterTest
 	public void closeBrowser() {
 		driver.close();
